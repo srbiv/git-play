@@ -1,0 +1,3 @@
+class PleaseWork
+
+end
